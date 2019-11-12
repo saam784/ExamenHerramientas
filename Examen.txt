@@ -1,0 +1,47 @@
+NOMBRE: SADOT ANTONIO AGUILLON MORALES	
+GRUPO: MATUNINO 2
+FECHA: 11 NOVIEMBRE 2019
+
+GIT
+
+¿Cual es la diferencia entre git y Github?
+
+R= git es el software que utilizamos en nuestra computadora local como sistema de control de versiones, herramienta que utilizaremos en nuesgtra terminal. GitHub es el servicio de hosting de los proyectos que se desarrollan y los cuales se guardan y modifican a traves de este servicio.
+
+¿En cuantos y cuales estados puede estar un archivo?
+R= En 3  confirmado o (commited), modificado (modified), y preparado (staged).
+
+¿Para que sirve el comando "git add" ?
+R= Sirve para añadir los archivos nuevos o modificados al proyecto que se esta trabajando.
+
+¿Cual es el comando para crear una rama en mi repositorio?
+R= git branch "nombre"
+
+
+JIRA
+
+Defina que es un issue:
+R= los issues se utilizan para dar seguimiento a piezas individuales que deben ser completadas, pueden representar diversas tareas de diferentes importancias para el proyecto.
+
+¿En kanban y scrum cuales son las columnas default de un tablero?
+R= por hacer, en proceso, hecho, son las columnas default.
+
+¿Como se selecciona un Dashboard para mostrarse en la pantalla de bienvenida?
+R= En JIRA se puede crear o customizar el dashboard, se selecciona el icono de jira y en la seccion dashboard se selecciona crear, copiar, o editar dependiendo de las necesidades del proyecto.
+
+
+
+JENKINS
+
+¿Cual es el atajo (ruta relativa) para el directorio home de un usuario de ubuntu?
+R= /home
+
+
+¿como se instala Jenkins en un sistema linux?
+R=se descarga el paquete de instalacion, se acttualiza el sistema y las aplicaciones con apt-get update y despuedes se instala con apt-get install, posteriormente se siguen las instrucciones como dar de alta usuario y contraseña para concluir y poder utilzarlo, corre en el puerteo 8080 por default.
+
+cual es la relacion entre HUDSON Y JENKINS?
+R= el proyecto original es HUDSON por temas de administracion en oracle y por la intencion de monetizar el proyecto, se creo jenkins y se trabajaron ambos proyectos en paralelo, inclinandose la balanza con el tiempo de manera bastante favorable hacia jenkins.
+
+
+
